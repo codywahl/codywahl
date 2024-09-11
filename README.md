@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently architecting and leading development for a Sales Management app for a medium Japanese sized business<br>🌱 I’m currently learning Cloudformation<br>💬 Ask me about Japan<br>⚡ Fun fact: I can overhead press my wife
+🔭 I’m currently a Senior Manager/Architect leading development for a Sales Management app for a medium Japanese sized business  
+👨‍💼 My company GH account: [gm-codywahl](https://github.com/gm-codywahl)  
+🌱 I’m currently learning Cloudformation  
+💬 Ask me about life/working in Japan  
+⚡ Fun fact: I can overhead press my wife  
 
 
 ## 🌐 Socials:
