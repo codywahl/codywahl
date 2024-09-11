@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a Senior Manager/Architect leading development for a Sales Management app for a medium Japanese sized business  
+🔭 I’m currently a Senior Manager/Architect leading development of a sales & management system for a Japanese business  
 👨‍💼 My company GH account: [gm-codywahl](https://github.com/gm-codywahl)  
 🌱 I’m currently learning Cloudformation  
 💬 Ask me about life/working in Japan  
