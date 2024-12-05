@@ -4,7 +4,8 @@
 💬 Ask me about life/working in Japan  
 ⚡ Fun fact: I can overhead press my wife  
 
-[![Visit my personal portfolio](https://raw.githubusercontent.com/codywahl/my-portfolio/refs/heads/main/static/icons/favicon.png)](codywahl.com) 
+## [![Portfolio site favicon](https://raw.githubusercontent.com/codywahl/my-portfolio/refs/heads/main/static/icons/favicon.png)](www.codywahl.com) Portfolio 
+[codywahl.com](www.codywahl.com) 
 
 
 ## 🌐 Socials:
