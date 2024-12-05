@@ -5,7 +5,7 @@
 ⚡ Fun fact: I can overhead press my wife  
 
 ## [![Portfolio site favicon](https://raw.githubusercontent.com/codywahl/my-portfolio/refs/heads/main/static/icons/favicon.png)](www.codywahl.com) Portfolio 
-[codywahl.com](www.codywahl.com) 
+[codywahl.com](https://www.codywahl.com) 
 
 
 ## 🌐 Socials:
