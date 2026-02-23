@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently a Senior Manager/Architect leading development of a sales & management system for a Japanese business  
-🌱 I’m currently learning Cloudformation  
+🔭 I’m currently a Lead Solution engineer at a fintech startup in Seattle, WA
+🌱 I’m currently learning Firebase Genkit and Vertex AI  
 💬 Ask me about life/working in Japan  
 ⚡ Fun fact: I can overhead press my wife  
 
